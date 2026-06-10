@@ -32,7 +32,7 @@ export const Contact: React.FC = () => (
           opacity: 0.7,
         }}
       >
-        // open to opportunities
+        {/* open to opportunities */}
       </div>
       <div className="cta-heading">Let's build something reliable together</div>
       <div className="cta-sub">
